@@ -1,33 +1,19 @@
 # API Patterns Guide
 
-*Date: 2026-03-13*
+## Overview
+This repository serves as an educational reference for REST API design patterns.
 
-## GitHub REST API Resource Categories
+## Features
+- Common API patterns explained
+- Code examples for each pattern
+- Best practices for API development
 
-- Actions
-- Apps
-- Billing
-- Checks
-- Code Scanning
-- Codespaces
-- Dependabot
-- Deployments
-- Gists
-- Git
-- GitHub Apps
-- GitHub Enterprise Server
-- Issues
-- Marketplace
-- Organizations
-- Packages
-- Projects
-- Pull Requests
-- Reactions
-- Repositories
-- Search
-- Teams
-- Users
-- Webhooks
-- Workflows
+## Technology Stack
+- Markdown for documentation
 
-This repository will document design patterns for each of these resource categories.
+## Usage
+Clone this repository and explore the `README.md` file for detailed explanations and examples.
+
+## Future Plans
+- Add more patterns as they emerge in the industry.
+- Include real-world case studies.
